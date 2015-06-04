@@ -61,7 +61,7 @@ Example:
 var percussion = new Percussion(
   {
     position: document.getElementById('canvas'),
-    speed: 
+    speed: 200
   }
 );
 ```
