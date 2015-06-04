@@ -1,0 +1,21 @@
+{
+  "name": "Percussion",
+  "version": "0.1.0",
+  "description": "Debugging tool for JS reactive programming libraries.",
+  "main": "dist/Percussion.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "percussion",
+    "reactive",
+    "programming",
+    "bacon.js",
+    "rxjs",
+    "kefir.js"
+  ],
+  "authors": [
+    "Francisco J. Cruz Romanos <grisendo@gmail.com>"
+  ],
+  "license": "MIT"
+}
